@@ -12,7 +12,7 @@
 
 <replace your number with your info given the template>
 
-1. 
+1. ksireland@alaska.edu My name is Kelly Ireland and I'm a Ph.D. student.
 
 2. 
 
