@@ -15,18 +15,25 @@
 1. ksireland@alaska.edu My name is Kelly Ireland and I'm a Ph.D. student.
 
 2. 
+## Mario Muscarella 
+Assistant Professor
 
-3. 
+email: memuscarella@alaska.edu
 
-4. 
 
-5. 
+3.
+**Tracie** 
+
+4. Taylor 
+
+5. ##Ariane Peralta 
 
 6. 
 
 7. 
 
-8. 
+8. Grant Wright
+Hello World, interests include toxicology, emerging contaminants, environmental policy, etc.
 
 9. 
 
@@ -34,7 +41,7 @@
 
 11. 
 
-12. 
+12. Jasper
 
 13. 
 
